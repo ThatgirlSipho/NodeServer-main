@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-web-app1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@babel/eslint-parser": "^7.24.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "eslint": "^9.7.0",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
